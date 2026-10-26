@@ -4,6 +4,18 @@
 
 **Projet universitaire — 4e année**
 
+| | |
+|---|---|
+| **Nom** | Daher |
+| **Prénom** | Imene |
+| **Matricule** | 222231694713 |
+| **Département** | Automatique |
+| **Spécialité** | Robotique et Systèmes Intelligents |
+| **Établissement** | USTHB |
+| **Environnement de développement** | MATLAB R2018a |
+| **Type de réalisation** | Simulation numérique, sans matériel physique |
+| **Durée prévisionnelle** | 8 semaines |
+
 *Document de cadrage initial — les seuils de taille et les règles exactes d'affectation aux bacs seront fixés et validés pendant le développement.*
 
 ---
@@ -186,5 +198,6 @@ Le programme sera développé avec les fonctions graphiques et les opérations n
 ---
 
 *Fin du cahier des charges — version initiale à valider avec l'encadrant.*
+
 
 
